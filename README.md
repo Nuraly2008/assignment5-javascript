@@ -60,9 +60,9 @@ and adds a new li element to the list.
 
 The Remove Item button removes the last item from the list.
 
-![Add Item](screenshots/task5-add.png)
+![Add Item](screenshots/task5.png)
 
-![Remove Item](screenshots/task5-remove.png)
+![Remove Item](screenshots/task6png)
 
 ## Summary
 
