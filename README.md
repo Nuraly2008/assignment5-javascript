@@ -2,7 +2,7 @@
 # Assignment 5 - JavaScript Basics
 
 Name: Nuraly Adilgereyev  
-Group: YOUR GROUP
+Group: SE-2539
 
 ## Part 1: Profile Object, Data Types & Arithmetic
 
