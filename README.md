@@ -62,7 +62,7 @@ The Remove Item button removes the last item from the list.
 
 ![Add Item](screenshots/task5.png)
 
-![Remove Item](screenshots/task6png)
+![Remove Item](screenshots/task6.png)
 
 ## Summary
 
